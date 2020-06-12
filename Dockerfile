@@ -1,4 +1,4 @@
-FROM mailsreeni/oraconnect
+FROM mail4sreeni/oraconnect
 
 WORKDIR /myapp
 
