@@ -1,4 +1,4 @@
-FROM mail4sreeni/oraconnect
+FROM python4oraconnect 
 
 WORKDIR /myapp
 
